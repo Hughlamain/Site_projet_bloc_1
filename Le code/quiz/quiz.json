@@ -1,0 +1,28 @@
+{
+    
+    "questions" :    [
+                    { 
+                        "question" : "Combien de planète y a t-il dans le système solaire ?",
+                        "reponses" : [  { "choix" : "4", "rep" : false, "name" : "quiz1", "id" : "q1r1"}, 
+                                        { "choix" : "8", "rep" : true, "name" : "quiz1", "id" : "q1r2"},
+                                        { "choix" : "7", "rep" : false, "name" : "quiz1", "id" : "q1r3"} ],
+                        "correct"  : "8 planètes"
+                    },
+                    
+                    {
+                        "question" : "A quelle position se trouve la Terre du Soleil ?",
+                        "reponses" : [  { "choix" : "3 ème", "rep" : true, "name" : "quiz2", "id" : "q2r1"},
+                                        { "choix" : "2 ème", "rep" : false, "name" : "quiz2", "id" : "q2r2"},
+                                        { "choix" : "11 ème", "rep" : false, "name" : "quiz2", "id" : "q2r3"} ],
+                        "correct" : "3ème position"
+                    },
+                    
+                    {
+                        "question" : "A quelle distance la Terre se trouve t-elle du Soleil ?",
+                        "reponses" : [  { "choix" : "150 millions de kilomètres", "rep" : true, "name" : "quiz3", "id" : "q3r1"},
+                                        { "choix" : "250 millions de kilomètres", "rep" : false, "name" : "quiz3", "id" : "q3r2"},
+                                        { "choix" : "750 millions de kilomètres", "rep" : false, "name" : "quiz3", "id" : "q3r3"} ],
+                        "correct"  : "150 millions de kilomètres"
+                    }
+                ]
+}
